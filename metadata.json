@@ -1,0 +1,5 @@
+{
+  "name": "LumiSketch - AI Relighting Tool",
+  "description": "Upload an image and sketch light sources to realistically relight your scene using Gemini AI.",
+  "requestFramePermissions": []
+}
